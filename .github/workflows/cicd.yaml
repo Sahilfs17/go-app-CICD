@@ -5,7 +5,7 @@ name: CI/CD
 # Exclude the workflow to run on changes to the helm chart
 #lets see this is something new 
 
-#drtgsrht
+#drtgsrhtfefre
 on:
   push:
     branches:
