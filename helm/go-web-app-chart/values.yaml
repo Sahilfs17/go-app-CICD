@@ -8,7 +8,7 @@ image:
   repository: sahilfs17/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "12854854908"
+  tag: "12855197945"
   
 ingress:
   enabled: false
